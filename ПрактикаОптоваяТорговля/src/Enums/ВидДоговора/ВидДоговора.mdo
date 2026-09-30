@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="177546ef-48cf-44af-b578-620be7e4e875">
+  <producedTypes>
+    <refType typeId="7960447d-f0f5-4fd3-b45f-41ba15efa7d6" valueTypeId="95220d5e-38e2-4cc1-bd5c-e917664028b5"/>
+    <listType typeId="7db107b8-6616-4d84-ac10-379196567f90" valueTypeId="c1fb2c6f-3074-4ad9-aec2-986c98794097"/>
+    <managerType typeId="ff9dfe57-500e-42a9-bca9-a165a2c081de" valueTypeId="d3ee60b9-14fb-4664-8452-fa9aaa341a46"/>
+  </producedTypes>
+  <name>ВидДоговора</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вид договора</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="5146f7fd-70d1-4a80-b15a-56d9234b988a">
+    <name>СПокупателем</name>
+    <synonym>
+      <key>ru</key>
+      <value>С покупателем</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="7b4fbcbe-f203-4d22-b180-1f9498c5c0c0">
+    <name>СПоставщиком</name>
+    <synonym>
+      <key>ru</key>
+      <value>С поставщиком</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
